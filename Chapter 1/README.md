@@ -1,3 +1,4 @@
+# Chapter 1
 Create a HTML 5 base template with the following tags / elements
 
 1. DocType
@@ -10,4 +11,4 @@ Create a HTML 5 base template with the following tags / elements
 8. Title
 9. Meta
 
-Include both language and character set definitions
+*Include both language and character set definitions*
